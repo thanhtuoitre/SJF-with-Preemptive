@@ -1,3 +1,10 @@
+Thành viên nhóm:
+1.Nguyễn Văn Định-687582.Nhiệm vụ: Kiểm thử, viết testcase.
+2.Đỗ Viết Đức-687585.Nhiệm vụ: Kiểm thử, viết testcase.
+3.Hoàng Gia Đức Tâm-687795.Nhiệm vụ: Phân tích thiết kế, xây dựng biểu đồ class.
+4.Nguyễn Duy Tân-687797.Nhiệm vụ: Phân tích thiết kế, xây dựng biểu đồ class.
+5.Vương Nhật Thành(Nhóm trưởng)-680373.Nhiêm vụ: Lập trình, tổng hợp thông tin và chỉnh sửa từng phần.
+
 Lớp Process
 🧾 Thuộc tính (biến thành viên):
 -int id: ID (mã định danh) của tiến trình.
